@@ -24,7 +24,7 @@ Make sure you have the following installed:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/usePopcorn.git
+   git clone https://github.com/Rohit04Sharma01/usePopcorn.git
    ```
 
 2. Navigate to the project directory
